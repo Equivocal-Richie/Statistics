@@ -11,3 +11,7 @@ Here’s the roadmap to becoming a statistics guru for data science, broken down
 
 
 **2. Probability Statistics:**
+
+- **Simply Put:** Probability is the language of uncertainty. It gives us a framework to quantify how likely an event is to occur.
+- **Why it's Crucial:** Data science is all about dealing with uncertainty. Whether you're building a predictive model or trying to understand the likelihood of a certain outcome, probability is fundamental. It underpins statistical inference and machine learning algorithms.
+- **What You'll Gain:** You'll understand the principles of chance and randomness. You'll be able to calculate probabilities, understand concepts like conditional probability (Bayes' theorem is a big one here!), and work with different probability distributions (like the normal distribution, binomial distribution, etc.), which are essential for modeling data.
